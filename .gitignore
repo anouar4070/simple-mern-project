@@ -1,0 +1,4 @@
+# Ignorer les fichiers générés par les outils de build
+node_modules/
+frontend/node_modules/
+backend/node_modules/
