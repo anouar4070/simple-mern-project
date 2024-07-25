@@ -1,6 +1,6 @@
 # After cloning this project, follow these steps to get up and running:
 
-1- Install dependencies for each folder frontend & backend: <strong> npm install </strong>
+1- Install dependencies for each folder frontend & backend: <br> <strong> npm install </strong>
 
 2- Start the backend server in the first terminal window :<br> 1/ <strong> cd backend/ </strong>
 <br> 2/ <strong> nodemon </strong>
