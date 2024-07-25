@@ -8,4 +8,4 @@
 3- Run the frontend in the second terminal window:<br> 1/   <strong> cd frontend/ </strong>
 <br> 2/ <strong> npm start  </strong>
 
-This will launch the React application and allow you to interact with it in your browser (usually at http://localhost:3000 by default).
+This will launch the simple-mern-project application and allow you to interact with it in your browser.
